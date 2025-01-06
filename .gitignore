@@ -34,3 +34,11 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# package lock files
+# remove lines if you intend to use npm
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+bun.lockb
+
